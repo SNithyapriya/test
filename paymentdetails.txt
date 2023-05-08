@@ -1,0 +1,6 @@
+payment page
+visa
+mastercard
+gpay
+phonepay
+mode of payment
