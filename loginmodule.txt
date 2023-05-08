@@ -1,3 +1,5 @@
 welcome to login page
 username
 password
+phone number
+mail id
