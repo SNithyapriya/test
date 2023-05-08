@@ -1,5 +1,8 @@
 welcome to login page
+plz enter the details
 username
 password
+successfully logined
+forgot pwd?
 phone number
 mail id
